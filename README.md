@@ -62,6 +62,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or feedback, please reach out to [riles1670@gmail.com](mailto:your-email@example.com).
+For questions or feedback, please reach out to [riles1670@gmail.com](mailto:your-email@example.com) and checkout this **MASTER ML COURSE: **
 
 
